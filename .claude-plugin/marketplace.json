@@ -1,0 +1,5 @@
+{
+  "name": "sagyo-buddy",
+  "owner": { "name": "herrorykyk-sudo" },
+  "plugins": [{ "name": "sagyo-buddy", "source": "./" }]
+}

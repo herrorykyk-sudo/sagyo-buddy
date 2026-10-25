@@ -1,0 +1,7 @@
+{
+  "name": "sagyo-buddy",
+  "version": "0.1.0",
+  "description": "Claudeがいま何をしているかを、キャラクターと日本語で横のパネルに表示する",
+  "types": "./types/index.d.ts",
+  "license": "MIT"
+}
